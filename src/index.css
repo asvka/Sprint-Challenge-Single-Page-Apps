@@ -31,6 +31,7 @@ main {
 .main-img {
   display: block;
   border-radius: 100%;
+  border: 4px solid black;
   margin: 0 auto;
 }
 
